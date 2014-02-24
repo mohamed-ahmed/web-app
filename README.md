@@ -1,4 +1,4 @@
 web-app
 =======
 
-dead for now
+A template to develop web apps
